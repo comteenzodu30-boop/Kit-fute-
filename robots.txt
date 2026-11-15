@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://comteenzodu30-boop.github.io/Kit-fute-/sitemap.xml
